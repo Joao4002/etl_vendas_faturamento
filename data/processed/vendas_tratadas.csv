@@ -1,0 +1,4 @@
+id_venda,data,produto,quantidade,preco_unitario,faturamento
+1,2024-05-01,Notebook,2,3500,7000
+3,2024-06-01,Teclado,1,150,150
+5,2024-07-01,Cadeira,3,800,2400
