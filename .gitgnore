@@ -1,0 +1,9 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Ambiente virtual
+venv/
+
+# Arquivos locais
+.env

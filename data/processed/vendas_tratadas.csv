@@ -2,3 +2,7 @@ id_venda,data,produto,quantidade,preco_unitario,faturamento
 1,2024-05-01,Notebook,2,3500,7000
 3,2024-06-01,Teclado,1,150,150
 5,2024-07-01,Cadeira,3,800,2400
+6,2024-08-01,Notebook,1,3500,3500
+8,2024-09-01,Teclado,4,150,600
+10,2024-10-01,Cadeira,2,800,1600
+11,2024-11-01,Notebook,3,3500,10500
